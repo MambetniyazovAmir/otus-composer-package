@@ -12,5 +12,7 @@
             "email": "mr.amirniyaz@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
