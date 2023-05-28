@@ -1,0 +1,16 @@
+{
+    "name": "amirniyaz/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Amirniyaz\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MambetniyazovAmir",
+            "email": "mr.amirniyaz@mail.ru"
+        }
+    ],
+    "require": {}
+}
