@@ -1,0 +1,9 @@
+# IDE FILES
+*.iml
+.idea
+/out/
+/import/
+
+# PROEJECT FILES
+vendor
+composer.lock
