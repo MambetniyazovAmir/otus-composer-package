@@ -9,7 +9,7 @@
 ## Установка
 
 ```bash
-$ composer require dmitrykirillov/otus-composer-package
+$ composer require amirniyaz/otus-composer-package
 ```
 
 ## Использование
